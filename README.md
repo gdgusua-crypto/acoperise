@@ -1,2 +1,1 @@
-# acoperise
-site-acoperisecomplete
+#
